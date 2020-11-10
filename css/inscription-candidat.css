@@ -276,14 +276,14 @@ select::-ms-expand {
 .select {
     position: relative;
     display: flex;
-    width: 9.60em;
+    width: 10.20em;
     height: 2.20em;
     line-height: 3;
     overflow: hidden;
     border-radius: .25em;
 }
 .type-de-formation {
-    width: 20em;
+    width: 21.40em;
     margin-bottom: 6px;
 }
 @media screen and (max-width: 475px) {
@@ -368,9 +368,9 @@ select::-ms-expand {
     animation-delay: 2s;
 }
 
-/*****
+/***
   a1 a2  a3
-  ***** */
+  ** */
 .a1 {
     animation-delay: 2s;
 }
