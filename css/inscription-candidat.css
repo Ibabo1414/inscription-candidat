@@ -420,6 +420,6 @@ select::-ms-expand {
     100% {
         opacity: 1;
         padding: 20px 40px;
-        width: 700px;
+        width: 500px;
     }
 }
